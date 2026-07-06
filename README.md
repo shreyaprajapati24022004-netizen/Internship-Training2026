@@ -1,6 +1,8 @@
-# Internship Training 2026
-
-This repository contains my internship training projects and assignments.
-
-## Projects
-- Car Price Prediction using Machine Learning
+Internship-Training2026/
+│── README.md
+│
+├── Car-Price-Prediction/
+│   └── Car_Price_Prediction.ipynb
+│
+├── Zomato-Data-Analysis/
+│   └── Zomato_Data_Analysis.ipynb
