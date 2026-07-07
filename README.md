@@ -5,3 +5,9 @@ Developed a machine learning model to predict used car prices using Linear Regre
 
 ### 🍽️ Zomato Data Analysis
 Performed data cleaning and exploratory data analysis (EDA) on the Zomato restaurant dataset. Analyzed restaurant ratings, votes, online ordering, booking availability, and restaurant categories using Python and Pandas.
+
+
+## Dataset
+
+The dataset is not included in this repository because it exceeds GitHub's file size limit (Zomato_Data_Analysis.ipynb)
+
