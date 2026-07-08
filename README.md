@@ -11,3 +11,16 @@ Performed data cleaning and exploratory data analysis (EDA) on the Zomato restau
 
 The dataset is not included in this repository because it exceeds GitHub's file size limit (Zomato_Data_Analysis.ipynb)
 
+# Black Friday Data Analysis
+
+This project performs Exploratory Data Analysis (EDA) on the Black Friday dataset using Python.
+
+## Tools Used
+- Python
+- Pandas
+- NumPy
+- Matplotlib
+
+## Files
+- `blackfriday.ipynb` – Analysis notebook
+- `BlackFriday.csv` – Dataset
