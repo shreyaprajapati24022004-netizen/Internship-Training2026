@@ -1,8 +1,8 @@
-# 🩺 Cure Sphere
+# 🩺 Care Sphere
 
 > **A fully private, offline AI Health Assistant powered by local LLMs using Ollama.**
 
-Cure Sphere is an AI-powered personal health assistant that combines conversational health coaching, food image analysis, and interactive health analytics—all while keeping your data completely private.
+Care Sphere is an AI-powered personal health assistant that combines conversational health coaching, food image analysis, and interactive health analytics—all while keeping your data completely private.
 
 Unlike cloud-based AI applications, **all AI processing runs locally on your machine** using **Ollama**, ensuring:
 
@@ -255,7 +255,7 @@ Cure-Sphere
 
 # 🔒 Privacy
 
-Cure Sphere is designed with privacy first.
+Care Sphere is designed with privacy first.
 
 * ✅ No Cloud Storage
 * ✅ No External APIs
